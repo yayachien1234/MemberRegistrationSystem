@@ -1,0 +1,28 @@
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.deps.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.runtimeconfig.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\refint\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.genruntimeconfig.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第四周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\ref\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.deps.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.runtimeconfig.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\bin\Debug\net6.0\E94106012_practice3-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\refint\E94106012_practice3-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\E94106012_practice3-2.genruntimeconfig.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\03 第三周\E94106012_pracrice3-2\E94106012_practice3-2\E94106012_practice3-2\obj\Debug\net6.0\ref\E94106012_practice3-2.dll
